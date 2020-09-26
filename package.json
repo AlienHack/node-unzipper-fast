@@ -31,6 +31,7 @@
     "fstream": "^1.0.12",
     "graceful-fs": "^4.2.2",
     "listenercount": "~1.0.1",
+    "node-int64": "^0.4.0",
     "readable-stream": "~2.3.6",
     "setimmediate": "~1.0.4"
   },
